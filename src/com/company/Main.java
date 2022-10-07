@@ -9,6 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+
     //Task 1
         /*int mark = 40;
         if (mark >= 50){
@@ -127,7 +128,7 @@ public class Main {
             System.out.println("These numbers are equal");} */
 
 
-    //Task 6
+    //Task 6 Немає
         /*int a = 5;
         int b = 7;
         int x; */
@@ -154,11 +155,36 @@ public class Main {
             System.out.println(QuantityLeft);
         }*/
 
-    //Task 9
+    //Task 9 Немає
+       /* int WifeAge;
+        int HusbandAge; */
 
 
 
         }
+    //Task 10
+    /*public static void Fingers (int FingerNumber){
+
+        switch (FingerNumber) {
+            case 1:
+                System.out.println("Мізинець");
+                break;
+            case 2:
+                System.out.println("Безименний");
+                break;
+            case 3:
+                System.out.println("Середній");
+                break;
+            case 4:
+                System.out.println("Вказівний");
+                break;
+            case 5:
+                System.out.println("Великий");
+                break;
+            default:
+                System.out.println("Wrong number");
+        }*/
+    }
 
 
 
